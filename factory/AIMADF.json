@@ -1,0 +1,9 @@
+{
+	"name": "AIMADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1137646f-8f05-4e60-b50d-182639b92029",
+		"tenantId": "04cc21c0-66ef-4a0e-99a1-f07f9ea6c9be"
+	}
+}
