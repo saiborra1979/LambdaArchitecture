@@ -1,0 +1,9 @@
+{
+	"name": "skaimadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ccb994eb-5f53-4b52-9dbe-ca52061abaaa",
+		"tenantId": "04cc21c0-66ef-4a0e-99a1-f07f9ea6c9be"
+	}
+}
