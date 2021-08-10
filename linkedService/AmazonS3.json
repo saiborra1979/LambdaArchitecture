@@ -6,9 +6,9 @@
 		"type": "AmazonS3",
 		"typeProperties": {
 			"serviceUrl": "",
-			"accessKeyId": "AKIA4GX7XBGCVOK5TE76",
+			"accessKeyId": "AKIA4GX7XBGCZBRUD6MK",
 			"authenticationType": "AccessKey",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkFJTUFERl81YWZhY2MwNS1mNGY3LTRmMjktYTk5MC1iY2M2NjUyNTliMjEiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIlNLQUlNQURGXzFiYmJkNjUyLTA4MGItNGMxMy05OTg0LWVjZjVmMzE4NWIzMCINCn0="
 		}
 	}
 }
